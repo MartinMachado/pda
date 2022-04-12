@@ -1,0 +1,6 @@
+hola mundo, buenos dias
+hola mundo, buenos
+
+Python es un lenguaje de alto nivel de programación 
+interpretado cuya filosofía hace hincapié en la legibilidad 
+de su código, se utiliza para desarrollar aplicaciones de todo tipo, ejemplos..
