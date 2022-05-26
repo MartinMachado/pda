@@ -164,14 +164,14 @@ def graficarShow(imagen):
 
 def main():
     #Mostrar su implementación aquí
-    imagen1=Image(filename="C:\pda\Modulo 4\Ejercitacion\coronary1.jpg")
+    imagen1=Image(filename="C:\pda\Modulo 4\Ejercitacion\coronary4.jpg")
     #np.amax(imagen1)   
     #getHistograma(procesada)
     # #imagen1.size()
     # #imagen1.saveImage("hola.jpg")     
-    #imagen1=ajustarContraste(imagen1,6)       
+    #imagen1=ajustarContraste(imagen1,4)       
     #imagen1.saveImage("C:\pda\Modulo 4\Ejercitacion\hola.jpg")
-    procesada = aplicarKernel(imagen1,"topSobel")
+    procesada = aplicarKernel(imagen1,"emboss")
     graficarShow(procesada)
     # procesada =ajustarBrillo(imagen1,0.5)
     # graficarShow(procesada)
