@@ -1,3 +1,10 @@
+##################################################
+#LABORATORIO 2: SISTEMA DE MATRICULACION DE ESTUDIANTES
+#PROGRAMACION DIGITAL AVANZADA
+#AUTORES: JUAN BENTOS, MAXI VESPA, MARTIN MACHADO
+####################################################
+
+
 from pickle import FALSE, TRUE
 from utec import Estudiantes,Secetaria,UC,IBIO2019,Coridnadora,inscripcionUCestudiantes
 import utec
